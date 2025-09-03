@@ -36,3 +36,11 @@ ul {
     margin: 20px;
     margin-top: auto;
 }
+
+.navbar a {
+    font-size: 18;
+    color: #ededed;
+    text-decoration: 0;
+    font-weight: 500;
+    margin-left: 35px;
+}
