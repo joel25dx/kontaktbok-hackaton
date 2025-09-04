@@ -44,3 +44,10 @@ ul {
     font-weight: 500;
     margin-left: 35px;
 }
+
+.profileimg {
+
+    height: 400px;
+    width: 350px;
+    object-fit: cover;
+}
