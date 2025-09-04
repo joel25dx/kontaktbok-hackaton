@@ -62,3 +62,13 @@ figcaption {
     text-align: center;
     text-decoration: none;
 }
+
+.g4 {
+    display: block;
+    margin-left: auto;
+    object-fit: cover;
+    margin-right: auto;
+    height: 400px;
+    width: 400px;
+    margin-top: 350px;
+}
