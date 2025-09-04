@@ -51,4 +51,5 @@ ul {
     height: 400px;
     width: 350px;
     object-fit: cover;
+    display: block;
 }
